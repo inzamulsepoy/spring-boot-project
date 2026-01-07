@@ -23,4 +23,4 @@ Simple registration app (name + email) using Spring Boot, Thymeleaf, Spring Data
 - DB connection is configured in `src/main/resources/application.properties` (default credentials root/password).
 - Hibernate will create/update schema automatically (`spring.jpa.hibernate.ddl-auto=update`).
 - To change DB credentials or URL, edit `application.properties`.
-# spring-boot-project
+
