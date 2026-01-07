@@ -1,0 +1,4 @@
+/home/user/spring-boot-project/src/main/java/com/example/registration/RegistrationApplication.java
+/home/user/spring-boot-project/src/main/java/com/example/registration/repository/UserRepository.java
+/home/user/spring-boot-project/src/main/java/com/example/registration/model/User.java
+/home/user/spring-boot-project/src/main/java/com/example/registration/controller/RegistrationController.java
